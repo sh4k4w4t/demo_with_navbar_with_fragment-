@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/icon_home"/>
+    <item
+        android:id="@+id/nav_bilicl_office"
+        android:title="BILICL Office"
+        android:icon="@drawable/icon_office"/>
+    <item
+        android:id="@+id/nav_bilicl_website"
+        android:title="BILICL Website"
+        android:icon="@drawable/icon_website"/>
+
+</group>
+
+    <item android:title="Social Media">
+        <menu>
+            <item
+                android:id="@+id/nav_social_facebook"
+                android:title="Facebook"/>
+            <item
+                android:id="@+id/nav_social_linkedin"
+                android:title="Linkedin"/>
+            <item
+                android:id="@+id/nav_social_mastodon"
+                android:title="Mastodon"/>
+            <item
+                android:id="@+id/nav_social_twitter"
+                android:title="Twitter"/>
+        </menu>
+
+    </item>
+
+
+</menu>

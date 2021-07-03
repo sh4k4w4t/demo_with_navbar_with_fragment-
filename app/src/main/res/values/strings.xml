@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Insurance Demo 2</string>
+
+    <string name="nav_header_name">Shakawat Shaheen</string>
+    <string name="nav_header_mail">shakawat@tuta.io</string>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+</resources>
